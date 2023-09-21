@@ -1,0 +1,45 @@
+
+.caixa {
+    text-align: center;
+    background-color: silver;
+    border: 12px solid silver;
+}
+
+nav a {
+    font-size: 20px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.img1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: silver;
+    border: 10px solid silver;
+    width: 40%;
+    text-align: center; 
+
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
